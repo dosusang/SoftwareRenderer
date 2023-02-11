@@ -1,2 +1,1 @@
-# dosuangSoftwareRenderer
 # SoftwareRenderer
