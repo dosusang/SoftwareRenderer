@@ -1,1 +1,2 @@
 # SoftwareRenderer
+![image](output.tga)
